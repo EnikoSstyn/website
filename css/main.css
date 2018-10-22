@@ -1,0 +1,118 @@
+body{
+	width: 1200px;
+	font-family: 'Amatic SC', cursive;
+	background-color: #6e7376;
+}
+h1{
+	float: left;
+	padding:7px;
+	margin:0;
+	color:#eeb6b7;
+	text-align: center;
+}
+ul{
+	list-style-type: none;
+	padding:0;
+	margin:0;
+	overflow: hidden;
+	font-size: 15pt;
+}
+li{
+	display: inline;
+	float: right;
+}
+li a{
+	display: block;
+	padding: 15px;
+	text-decoration: none;
+	letter-spacing: 5px;
+	color: white;
+}
+li a:hover{
+	background-color: #3d4042;
+}
+.hero{
+	width: 1200px;
+	height: 600px;
+}
+.first-line{
+	font-size: 28pt;
+	text-align: center;
+	color:#eeb6b7;
+	text-shadow: 3px 3px black;
+}
+.first-part,
+.second-part{
+	width:580;
+	
+}
+.first-part{
+	float:left;
+	padding:0 20px;
+
+}
+.second-part{
+	float:right;
+	padding:0 20px;
+}
+.text{
+	height: 330px;
+	font-size: 18pt;
+	color:white;
+}
+h3{
+	text-align: center;
+	color:#eeb6b7;
+	font-size: 25pt;
+	border:2px solid white;
+	border-radius: 2px;
+	width:300px;
+}
+#about{
+	clear: both;
+	background-image: url("about-me.jpg");
+	background-size: 1200px 700px;
+	width:1200px;
+	height: 700px;
+}
+h2{
+	text-align: center;
+	font-size: 38pt;
+	color:#eeb6b7;
+	text-shadow: 3px 3px black;
+
+}
+.about-me{
+	font-size: 18pt;
+	text-align: justify-all;
+	padding-left: 480px;
+}
+.font{
+	font-size: 25pt;
+	font-weight: bolder;
+}
+.hire,
+.follow,
+.meet{
+	width:380px;
+	float:left;
+	text-align: center;
+
+}
+h4{
+	text-align: center;
+	font-size: 22pt;
+	color:#eeb6b7;
+}
+.p{
+	font-size: 18pt;
+	color:white;
+}
+i a{
+	font-size: 25pt;
+	padding:0 5px;
+	color:white;
+}
+i a:hover{
+	color:#eeb6b7;
+}
