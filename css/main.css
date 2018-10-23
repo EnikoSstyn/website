@@ -116,3 +116,7 @@ i a{
 i a:hover{
 	color:#eeb6b7;
 }
+.responsive{
+	width: 100%;
+	height: auto;
+}
